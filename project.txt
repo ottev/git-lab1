@@ -1,2 +1,2 @@
 course=Git
-status=draft
+status=feature
