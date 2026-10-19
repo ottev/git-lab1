@@ -1,0 +1,2 @@
+course=Git
+status=draft
